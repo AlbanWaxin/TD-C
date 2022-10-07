@@ -5,5 +5,5 @@ Résultat du TD de:
 -Sansané Hugo
 -Makalou Shérif
 
-![./screen.png]
+![/screen.png]
 
